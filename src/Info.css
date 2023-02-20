@@ -1,0 +1,30 @@
+.Info__img{
+    height:500px;
+    width:100%;
+}
+
+.info__inner__div{
+    height:60px;
+    width:100%;
+    background-color:black;
+    border-radius:10px;  
+}
+
+.info__login{
+    height:30px;
+    width:70px;
+    background-color:white;
+    border-radius:10px;
+    color:black;
+    display:flex;
+    justify-content:center;
+    position:absolute;
+    top:4%;
+    left:88%;
+}
+
+#info__link{
+    text-decoration:none;
+}
+
+
